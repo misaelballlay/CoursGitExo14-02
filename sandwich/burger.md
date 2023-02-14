@@ -1,15 +1,10 @@
 
-Mcfirst 
+Steak 
+Salade 
+Tomate 
+Cornichon 
+Fromage
 
-Pain 
+![n'importe quoi ici pour indiquer le nom](https://fatsecretfrance.fr/wp-content/uploads/2020/11/Burger-ve%CC%81ge%CC%81tarien-maison.png)
 
-sauce 
-oignon
-viande 
 
-fromage 
-viande 
-
-pain
-
-https://fr.openfoodfacts.org/images/products/200/000/011/6376/front_fr.5.full.jpg
